@@ -56,7 +56,7 @@ body {
     width:120vw;
     height: 80vh;
   }
-  .panel:nth-of-type(2),.panel:nth-of-type(5) {
+  /* .panel:nth-of-type(2),.panel:nth-of-type(5) {
     display: none;
-  }
+  } */
 }
